@@ -1,0 +1,14 @@
+Ciao a tutti start2impact!
+
+Prima di tutto scusate se sto usando un file .txt invece che uno di word, ma io sono su Linux quindi non posso fare altro.
+
+Ci sono alcune scelte che vorrei motivare, partendo dalla distinzione fra zona principale e footer.
+Per far si che il footer stesse sempre nascosto fuori dal limite della pagina ho usato 'vh' come unità di misura al posto di 'px' per l'altezza della parte principale.
+Purtroppo però, diminuendo la dimensione verticale della finestra, si mischia tutto. Ci ho combattuto tutto il giorno ma non ho trovato la soluzione.
+
+Sappiate che continuerò questo progetto e potrete trovare una versione aggiornata sul mio sito:
+http://snisni.it/progetti/jsweather
+
+Grazie per aver letto. Buona giornata!
+
+- Mattia Sinisi
